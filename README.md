@@ -20,7 +20,14 @@ onde é consumida a API do Mercado Livre, com diferentes endpoints de acordo com
 * Entender o que é Kanban
 * Entender o que é Scrum
 * Trabalhar em equipes utilizando Kanban ou Scrum de maneira eficaz
-* Praticar todas as habilidades desenvolvidas até agora no módulo de Front-En
+* Praticar todas as habilidades desenvolvidas até agora no módulo de Front-End
 
+ 
+ # Gurpo que desenvolveu o projeto:
+  
+  * Daniel Santana de Souza (daniel-s-souza)
+  * Vitor Vieira (VtorVieira )
+  * Marcos Vinicius da Silva Sobrinho (marcovdss)
+  
 # Passos a ser desenvolvido: 
  * implementar css do projeto.
