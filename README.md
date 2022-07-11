@@ -21,3 +21,6 @@ onde é consumida a API do Mercado Livre, com diferentes endpoints de acordo com
 * Entender o que é Scrum
 * Trabalhar em equipes utilizando Kanban ou Scrum de maneira eficaz
 * Praticar todas as habilidades desenvolvidas até agora no módulo de Front-En
+
+# Passos a ser desenvolvido: 
+ * implementar css do projeto.
