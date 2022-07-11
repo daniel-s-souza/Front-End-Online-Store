@@ -15,7 +15,8 @@ onde é consumida a API do Mercado Livre, com diferentes endpoints de acordo com
  * npm start
  
 # Habilidades
-** Nesse projeto, você será capaz de: **
+
+ Nesse projeto, você será capaz de: 
 
 * Entender o que são Métodos Ágeis
 * Entender o que é Kanban
